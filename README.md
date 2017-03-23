@@ -13,4 +13,5 @@ log.style('hello world！', {
 ```
 
 **view**
-<img src="./images/log-img.png">
+
+<img width="200" src="./images/log-img.png">
