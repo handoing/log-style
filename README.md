@@ -12,6 +12,6 @@ log.style('hello world！', {
 });
 ```
 
-**view**
+**view:**
 
 <img width="400" src="./images/log-img.png">
